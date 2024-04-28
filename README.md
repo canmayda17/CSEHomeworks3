@@ -1,3 +1,5 @@
 # CSEHomeworks3
 
-My CSE homeworks and projects for 3rd grade
+This folder contains the projects I completed during my third year in the Marmara University Computer Science and Engineering Department.
+
+It includes Java, C, Logisim, SQL, Verilog, codes according to lesson.
